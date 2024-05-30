@@ -16,10 +16,7 @@ Data augmentation techniques: I had a few set out, but the ones I used were rand
 Test loss: 1.90
 Test accuracy: 0.50
 
-Confusion Matrix:
-   | PP | PN
-AP | 69 | 2
-AN | 0  | 69
+Confusion Matrix: | True Positives: 69 | True Negatives: 69 | False Negatives: 2 | False Positives: 0 |  
 
 ## Analysis/Conclusion
 My first model was way heftier than the second. 
